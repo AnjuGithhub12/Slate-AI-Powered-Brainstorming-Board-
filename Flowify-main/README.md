@@ -114,7 +114,7 @@ Make sure that you have [Node.js](https://nodejs.org/en/) and the latest version
 
 ### Installation
 
-- Clone the Repository
+<!-- - Clone the Repository
   ```
   git clone https://github.com/gh0sty02/Flowify.git
   ```
@@ -127,4 +127,4 @@ Make sure that you have [Node.js](https://nodejs.org/en/) and the latest version
 - Run the App
   ```sh
   npm run dev
-  ```
+  ``` -->
