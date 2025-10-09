@@ -1,1 +1,0 @@
-# Slate-AI-Powered-Brainstorming-Board-
