@@ -1,1 +1,1 @@
-# Slate-AI-Powered-Brainstorming-Board-
+# Flowify-AI-Powered-Brainstorming-Board-
