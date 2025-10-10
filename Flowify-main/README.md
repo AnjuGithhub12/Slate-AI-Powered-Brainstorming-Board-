@@ -112,7 +112,7 @@
 
 Make sure that you have [Node.js](https://nodejs.org/en/) and the latest version of NPM installed on your local machine.
 
-### Installation
+<!-- ### Installation -->
 
 <!-- - Clone the Repository
   ```
