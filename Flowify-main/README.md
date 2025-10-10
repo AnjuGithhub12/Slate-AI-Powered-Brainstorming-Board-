@@ -78,7 +78,7 @@
 
 <div align="center">
  <h2 align="start">Recent Activity Feed</h2>
- <img width="800" alt="image" src="https://github.com/gh0sty02/Flowify/assets/78202013/970692d2-050c-4a7d-908a-7270754e1226">
+ <img width="800" alt="image" src="localhost_3000_organization_org_33plQDo5pYPPwh2IH0fV0jOQxUk_activity.png">
 </div>
 </br>
 
